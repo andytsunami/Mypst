@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<id>636000-Need-for-Speed-Hot-Pursuit</id>
+	<pic>http;//myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/icon.png</pic>
+	<pic_big>http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-icon.png</pic_big>
+	<name>Need For Speed: Hot Pursuit</name>
+	<trophy_count>
+		<platinum>1</platinum>
+		<gold>2</gold>
+		<silver>14</silver>
+		<bronze>56</bronze>
+	</trophy_count>
+<trophys>
+
+	<trophy id="78760">
+		<name>Masterpieces</name>
+		<desc>Get Gold or Distinction in all Lamborghini Pack events</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_72.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_72.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Lamborghini Untamed</dlc>
+		<pdm>39.2753150266</pdm>
+	</trophy>
+
+	<trophy id="78759">
+		<name>The Porsche Principle</name>
+		<desc>Get Gold or Distinction in all Porsche Pack events</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_71.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_71.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Porsche Unleashed</dlc>
+		<pdm>30.7132594651</pdm>
+	</trophy>
+
+	<trophy id="78758">
+		<name>Priority Target</name>
+		<desc>Play 5 games of Most Wanted as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_70.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_70.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Armed and Dangerous Pack</dlc>
+		<pdm>25.1811972994</pdm>
+	</trophy>
+
+	<trophy id="78756">
+		<name>Rubbing is Racing</name>
+		<desc>Take down another racer in Arms Race</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_68.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_68.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Armed and Dangerous Pack</dlc>
+		<pdm>27.2226437814</pdm>
+	</trophy>
+
+	<trophy id="78757">
+		<name>Chase the Ace</name>
+		<desc>Play 5 games of Most Wanted as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_69.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_69.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Armed and Dangerous Pack</dlc>
+		<pdm>25.1811972994</pdm>
+	</trophy>
+
+	<trophy id="78755">
+		<name>Flame Grilled</name>
+		<desc>Use a full bar of nitrous in one go in the Lamborghini Sesto Elemento</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_67.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_67.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Lamborghini Untamed</dlc>
+		<pdm>18.9129220756</pdm>
+	</trophy>
+
+	<trophy id="78754">
+		<name>The Diablo You Know</name>
+		<desc>Reach top speed in a Lamborghini Diablo on a coastal road</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_66.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_66.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Lamborghini Untamed</dlc>
+		<pdm>22.5341393411</pdm>
+	</trophy>
+
+	<trophy id="78753">
+		<name>Pin-Up</name>
+		<desc>Take 3 pictures of the Lamborghini Countach</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_65.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_65.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Lamborghini Untamed</dlc>
+		<pdm>34.9381899126</pdm>
+	</trophy>
+
+	<trophy id="78752">
+		<name>Street of Dreams</name>
+		<desc>Drive the Porsche 911 Speedster for 20 miles (32.1 kilometres)</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_64.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_64.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Porsche Unleashed</dlc>
+		<pdm>24.4302371215</pdm>
+	</trophy>
+
+	<trophy id="78751">
+		<name>Offroad Innovation</name>
+		<desc>Drive for a mile (1.6 kilometres) on shortcuts in a race and win it in the Porsche 959</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_63.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_63.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Porsche Unleashed</dlc>
+		<pdm>32.8117086133</pdm>
+	</trophy>
+
+	<trophy id="78750">
+		<name>Top of the Range</name>
+		<desc>Win an online event in the Porsche 911 Turbo</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_62.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_62.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Porsche Unleashed</dlc>
+		<pdm>31.5405120617</pdm>
+	</trophy>
+
+	<trophy id="78748">
+		<name>Untouchable</name>
+		<desc>Get gold in all the Super Sports Racer events</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_60.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_60.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>43.4959749552</pdm>
+	</trophy>
+
+	<trophy id="78749">
+		<name>Swift Justice</name>
+		<desc>Get distinction in all the Super Sports Cop events</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_61.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_61.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>42.2725293135</pdm>
+	</trophy>
+
+	<trophy id="78747">
+		<name>Hotshot</name>
+		<desc>Win an Online and an Offline Interceptor event in the Bugatti Veyron 16.4 Super Sport Interceptor</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_59.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_59.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>44.0310467936</pdm>
+	</trophy>
+
+	<trophy id="78745">
+		<name>Moon Shot</name>
+		<desc>Bust a racer in the GUMPERT apollo s Interceptor at night, online or offline</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_57.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_57.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>32.1698713932</pdm>
+	</trophy>
+
+	<trophy id="78746">
+		<name>Sting in the Tail</name>
+		<desc>Get 5 spike strip hits with the Porsche 911 GT2 RS Interceptor</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_58.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_58.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>29.1371454924</pdm>
+	</trophy>
+
+	<trophy id="78744">
+		<name>Land Speed Record</name>
+		<desc>Hold the Bugatti Veyron 16.4 Super Sport at top speed for 2 seconds</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_56.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_56.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>19.7785466542</pdm>
+	</trophy>
+
+	<trophy id="78743">
+		<name>Slip and Slide</name>
+		<desc>Do a 1000 yard (915 metres) drift in the Porsche 911 GT2 RS</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_55.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_55.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>40.5824542597</pdm>
+	</trophy>
+
+	<trophy id="78742">
+		<name>Blast Off</name>
+		<desc>Complete 5 online races in the GUMPERT apollo s</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_54.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_54.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>40.087995998</pdm>
+	</trophy>
+
+	<trophy id="78741">
+		<name>Show Off</name>
+		<desc>Take a photo of the Porsche 911 GT2 RS and share it with your friends</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_53.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_53.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>32.3066571699</pdm>
+	</trophy>
+
+	<trophy id="78740">
+		<name>Biteback</name>
+		<desc>Beat a friends recommendation in the Bugatti Veyron 16.4 Super Sport</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_52.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_52.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>38.3216751851</pdm>
+	</trophy>
+
+	<trophy id="78739">
+		<name>Fender Bender</name>
+		<desc>Wreck 5 cops in the GUMPERT apollo s</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_51.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_51.png</pic_big>
+		<dlc>Need For Speed: Hot Pursuit - Super Sports Pack</dlc>
+		<pdm>33.982599457</pdm>
+	</trophy>
+
+	<trophy id="74511">
+		<name>Escapologist</name>
+		<desc>Play 10 Online Interceptors as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_31.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_31.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>69.7793762167</pdm>
+	</trophy>
+
+	<trophy id="74512">
+		<name>Burnout</name>
+		<desc>Fill the Nitrous bar then use it all in one go without hitting anything</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_32.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_32.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>5.0</pdm>
+	</trophy>
+
+	<trophy id="74513">
+		<name>Wall of Steel</name>
+		<desc>Deploy a Road Block which then gets hit by a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_33.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_33.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>10.999596329</pdm>
+	</trophy>
+
+	<trophy id="74514">
+		<name>Shock to the System</name>
+		<desc>Get a hit with an EMP</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_34.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_34.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>13.1509924396</pdm>
+	</trophy>
+
+	<trophy id="74515">
+		<name>Hit Confirmed</name>
+		<desc>Get a hit with a Spike Strip</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_35.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_35.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>8.25577149433</pdm>
+	</trophy>
+
+	<trophy id="74516">
+		<name>Aerial Assistance</name>
+		<desc>Call in a Helicopter which then hits a Racer with a Spike Strip</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_36.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_36.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>24.093286887</pdm>
+	</trophy>
+
+	<trophy id="74517">
+		<name>Denied</name>
+		<desc>First Jammer use that affects a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_37.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_37.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>21.796188523</pdm>
+	</trophy>
+
+	<trophy id="74518">
+		<name>In the Zone</name>
+		<desc>Use a full Turbo without hitting anything</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_38.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_38.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>30.3194748715</pdm>
+	</trophy>
+
+	<trophy id="74519">
+		<name>Power Spike</name>
+		<desc>Spike strip a car that is targeting you with an EMP</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_39.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_39.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>27.1132212576</pdm>
+	</trophy>
+
+	<trophy id="74520">
+		<name>Eye of the Needle</name>
+		<desc>As a Racer, drive through an undamaged Road Block without hitting it</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_40.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_40.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>14.4638666222</pdm>
+	</trophy>
+
+	<trophy id="74521">
+		<name>Share the Joy</name>
+		<desc>Dreamshot a BMW and share it with your Friends</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_41.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_41.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>56.094698365</pdm>
+	</trophy>
+
+	<trophy id="74522">
+		<name>Imprezive</name>
+		<desc>Accumulate 2,000 yds of drift in a single event using the Subaru Impreza WRX STI</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_42.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_42.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>50.7683156695</pdm>
+	</trophy>
+
+	<trophy id="74523">
+		<name>Flight of the Bumblebee</name>
+		<desc>Win the &#39;Muscle Reflex&#39; race in a Bee Yellow Chevrolet Camaro SS</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_43.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_43.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>49.1152351146</pdm>
+	</trophy>
+
+	<trophy id="74524">
+		<name>Shaken, Not Stirred</name>
+		<desc>Win any Hot Pursuit in an Aston Martin</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_44.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_44.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>50.4953716594</pdm>
+	</trophy>
+
+	<trophy id="74525">
+		<name>Wet in the Vette</name>
+		<desc>Drive any Corvette in the wet</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_45.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_45.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>56.8633812316</pdm>
+	</trophy>
+
+	<trophy id="74526">
+		<name>Godzilla</name>
+		<desc>Get any medal in &#39;Run to the Hills&#39; driving the Nissan GT-R SpecV without using any weapons</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_46.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_46.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>67.0908564288</pdm>
+	</trophy>
+
+	<trophy id="74527">
+		<name>Iron Man</name>
+		<desc>Get Distinction in a Hot Pursuit, Interceptor and Rapid Response using the Audi R8</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_47.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_47.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>71.5101273163</pdm>
+	</trophy>
+
+	<trophy id="74528">
+		<name>Electrically Charged</name>
+		<desc>Bust the 918 Spyder using an EMP in &#39;Porsche Patrol&#39;</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_48.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_48.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>53.95763129</pdm>
+	</trophy>
+
+	<trophy id="74529">
+		<name>Snakebite in Black</name>
+		<desc>Spike a cop while driving a Black Dodge Viper SRT10 ACR or Ford Shelby GT500 Supersnake</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_49.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_49.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>62.5243095019</pdm>
+	</trophy>
+
+	<trophy id="74530">
+		<name>Midnight Cowboy</name>
+		<desc>Dreamshot a Midnight Blue Metallic Ford GT at night in the desert</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_50.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_50.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>68.5251250486</pdm>
+	</trophy>
+
+	<trophy id="74531">
+		<name>NFS Hot Pursuit Elite</name>
+		<desc>Awarded for successfully collecting all Need for Speed(TM) Hot Pursuit trophies</desc>
+		<type>platinum</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_0.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_0.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>81.7650443859</pdm>
+	</trophy>
+
+	<trophy id="74532">
+		<name>Settling the Score</name>
+		<desc>Select a Friend Autolog Recommendation and beat it</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_1.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_1.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>22.3181310879</pdm>
+	</trophy>
+
+	<trophy id="74533">
+		<name>Graffiti</name>
+		<desc>Create a &#39;New Post&#39; or &#39;Write a Reply&#39; on the Wall</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_2.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_2.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>21.473131381</pdm>
+	</trophy>
+
+	<trophy id="74534">
+		<name>Share the Dream</name>
+		<desc>Share a Dreamshot to the Wall</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_3.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_3.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>49.9752522908</pdm>
+	</trophy>
+
+	<trophy id="74535">
+		<name>Socialite</name>
+		<desc>Have 5 or more NFS Friends</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_4.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_4.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>28.2143259264</pdm>
+	</trophy>
+
+	<trophy id="74536">
+		<name>Gotcha!</name>
+		<desc>Bust a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_5.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_5.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>5.0</pdm>
+	</trophy>
+
+	<trophy id="74537">
+		<name>Officer</name>
+		<desc>Reach rank (3) Officer as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_6.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_6.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>15.033622104</pdm>
+	</trophy>
+
+	<trophy id="74538">
+		<name>Patrolman</name>
+		<desc>Reach rank (5) Patrolman as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_7.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_7.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>28.8326838843</pdm>
+	</trophy>
+
+	<trophy id="74539">
+		<name>Trooper</name>
+		<desc>Reach rank (8) Trooper as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_8.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_8.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>42.0743650144</pdm>
+	</trophy>
+
+	<trophy id="74540">
+		<name>Sergeant</name>
+		<desc>Reach rank (11) Sergeant as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_9.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_9.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>52.7726101504</pdm>
+	</trophy>
+
+	<trophy id="74541">
+		<name>Lieutenant</name>
+		<desc>Reach rank (14) Lieutenant as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_10.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_10.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>64.8202994505</pdm>
+	</trophy>
+
+	<trophy id="74542">
+		<name>Undercover</name>
+		<desc>Reach rank (17) Undercover as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_11.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_11.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>72.4020746648</pdm>
+	</trophy>
+
+	<trophy id="74543">
+		<name>Captain</name>
+		<desc>Reach rank (18) Captain as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_12.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_12.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>73.5968112024</pdm>
+	</trophy>
+
+	<trophy id="74544">
+		<name>Pursuit Agent</name>
+		<desc>Reach rank (19) Pursuit Agent as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_13.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_13.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>74.3514999589</pdm>
+	</trophy>
+
+	<trophy id="74545">
+		<name>Ultimate Enforcer</name>
+		<desc>Reach rank (20) Ultimate Enforcer as a Cop</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_14.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_14.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>74.8253467296</pdm>
+	</trophy>
+
+	<trophy id="74546">
+		<name>True Blue</name>
+		<desc>Earn a Distinction in every single-player Cop mission</desc>
+		<type>gold</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_15.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_15.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>69.7793762167</pdm>
+	</trophy>
+
+	<trophy id="74547">
+		<name>Chase</name>
+		<desc>Play 10 Online Hot Pursuits as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_16.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_16.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>59.3571458939</pdm>
+	</trophy>
+
+	<trophy id="74548">
+		<name>Bounty Hunter</name>
+		<desc>Play 10 Online Interceptors as a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_17.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_17.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>70.0740362492</pdm>
+	</trophy>
+
+	<trophy id="74549">
+		<name>Vengeance is Mine</name>
+		<desc>Wreck a Cop</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_18.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_18.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>5.12670494263</pdm>
+	</trophy>
+
+	<trophy id="74550">
+		<name>Suspect</name>
+		<desc>Reach wanted level (2) Suspect as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_19.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_19.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>5.0</pdm>
+	</trophy>
+
+	<trophy id="74551">
+		<name>Target</name>
+		<desc>Reach wanted level (4) Target as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_20.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_20.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>14.6743564049</pdm>
+	</trophy>
+
+	<trophy id="74552">
+		<name>Felon</name>
+		<desc>Reach wanted level (6) Felon as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_21.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_21.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>26.5307555519</pdm>
+	</trophy>
+
+	<trophy id="74553">
+		<name>Offender</name>
+		<desc>Reach wanted level (8) Offender as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_22.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_22.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>33.4409257386</pdm>
+	</trophy>
+
+	<trophy id="74554">
+		<name>Outlaw</name>
+		<desc>Reach wanted level (11) Outlaw as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_23.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_23.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>41.988246707</pdm>
+	</trophy>
+
+	<trophy id="74555">
+		<name>Wanted</name>
+		<desc>Reach wanted level (14) Wanted as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_24.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_24.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>50.8315471024</pdm>
+	</trophy>
+
+	<trophy id="74556">
+		<name>Fugitive</name>
+		<desc>Reach wanted level (17) Fugitive as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_25.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_25.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>60.7127969594</pdm>
+	</trophy>
+
+	<trophy id="74557">
+		<name>Notorious</name>
+		<desc>Reach wanted level (19) Notorious as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_26.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_26.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>66.2705486549</pdm>
+	</trophy>
+
+	<trophy id="74558">
+		<name>Most Wanted</name>
+		<desc>Reach wanted level (20) Most Wanted as a Racer</desc>
+		<type>silver</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_27.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_27.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>67.9895356569</pdm>
+	</trophy>
+
+	<trophy id="74559">
+		<name>Golddigger</name>
+		<desc>Earn a Gold Medal in every single-player Racer event</desc>
+		<type>gold</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_28.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_28.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>69.7467592808</pdm>
+	</trophy>
+
+	<trophy id="74560">
+		<name>Festival of Speed</name>
+		<desc>Play 10 Online Races</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_29.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_29.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>60.3961774658</pdm>
+	</trophy>
+
+	<trophy id="74561">
+		<name>Race</name>
+		<desc>Play 10 Online Hot Pursuits as a Racer</desc>
+		<type>bronze</type>
+		<pic> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/trophy_30.png</pic>
+		<pic_big> http://myps3t.com.br/media/game/636000-Need-for-Speed-Hot-Pursuit/full-trophy_30.png</pic_big>
+		<dlc>None</dlc>
+		<pdm>60.2387291428</pdm>
+	</trophy>
+
+</trophys>
+</game>

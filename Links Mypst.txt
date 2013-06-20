@@ -1,0 +1,6 @@
+http://mypst.com.br/jogos/NPWR00802_00/xml/ - Dados de um jogo
+http://mypst.com.br/rank/mangaloyds/xml/ - Dados de um usuario
+http://mypst.com.br/rank/mangaloyds/jogo/NPWR04110_00/xml/ Dados de um jogo do usuario
+http://mypst.com.br/rank/mangaloyds/jogos/xml/ Lista de jogos de um usuario
+mypst.com.br/update_new_user/fabriciols / Atualiza o perfil do usuario
+mypst.com.br/rank/usuario Adiciona novo usuario ainda instavel
