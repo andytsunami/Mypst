@@ -2,5 +2,4 @@
 
 # Package Files #
 *.war
-.classpath
 .settings
