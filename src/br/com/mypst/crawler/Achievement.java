@@ -27,7 +27,7 @@ public class Achievement {
 	public String toString() {
 		String retorno = "";
 		for (Trophy trophy : getHave()) {
-			retorno += trophy.getName() + " ------ " + trophy.getDate() + " \n";
+			retorno += trophy.getId() + " - " + trophy.getName() + " ------ " + trophy.getDate() + " \n";
 		}
 		
 		return retorno += "Total conquistado " + getHave().size();

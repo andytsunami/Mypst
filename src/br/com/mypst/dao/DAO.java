@@ -26,7 +26,7 @@ public class DAO<T> {
 	}
 
 	public List<T> lista() {
-		return this.em.createQuery("select e from " + classe.getName() + " e")
+		return this.em.createQuery("select e from " + classe.getName() + " e order by id asc")
 				.getResultList();
 	}
 

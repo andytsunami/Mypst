@@ -1,6 +1,8 @@
-package br.com.mypst.modelo;
+package br.com.mypst.teste;
 
-public class TestaTrofeu {
+import br.com.mypst.modelo.Trofeu;
+
+public class TestaTrofeuOld {
 	
 	public static void main(String[] args) {
 		Trofeu trofeu = new Trofeu();

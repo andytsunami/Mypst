@@ -21,14 +21,17 @@ public class Trofeu {
 	@Column(length = 1000)
 	private String descricao;
 
+	@Column(name = "imagem")
 	private String imagem;
+	@Column(name = "imagemGrande")
 	private String imagemGrande;
+	@Column(name="dlc")
 	private String dlc;
 
-	@ManyToOne()
+	@ManyToOne
 	private Jogo jogo;
 	
-	@OneToMany(mappedBy = "jogo")
+	@OneToMany(mappedBy = "trofeu")
 	List<Conquista> conquistas;
 	
 	

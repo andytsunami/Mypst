@@ -8,6 +8,8 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Scanner;
 
+import javax.persistence.EntityManager;
+
 import br.com.mypst.crawler.Achievement;
 import br.com.mypst.crawler.Game;
 import br.com.mypst.crawler.Trophy;
@@ -82,7 +84,7 @@ public class JogoUtil {
 		
 	}
 	
-	public List<Conquista> getConquistas(Usuario usuario, Jogo jogo) throws IOException{
+	public List<Conquista> getConquistas(Usuario usuario, Jogo jogo, EntityManager em) throws IOException{
 		
 				
 URL url = new URL("http://mypst.com.br/rank/" + usuario.getNome() + "/jogo/" + jogo.getIdSony() + "/xml/");
@@ -108,23 +110,26 @@ URL url = new URL("http://mypst.com.br/rank/" + usuario.getNome() + "/jogo/" + j
 		XStream stream = new XStream(new DomDriver());
 		stream.alias("achievement", Achievement.class);
 		stream.alias("trophy", Trophy.class);
+		stream.useAttributeFor(Trophy.class,"id");
 				
 		Achievement achievement = (Achievement) stream.fromXML(xml);
 		List<Conquista> conquistas = new ArrayList<>();
-		
+		System.out.println(achievement.toString());
 		for (Trophy trofeu : achievement.getHave()) {
 			Conquista conquista = new Conquista();
-			 
-			Trofeu t = new Trofeu();
-			t.setId(trofeu.getId());
+			
+			TrofeuDAO dao = new TrofeuDAO(em);
+			
+			Trofeu t = dao.busca(trofeu.getId());
+			/*t.setId(trofeu.getId());
 			t.setNome(trofeu.getName());
 			
 			t.setTipo(trofeu.getType());
 			t.setDescricao(trofeu.getDesc());
 			t.setImagem(trofeu.getPic());
 			t.setImagemGrande(trofeu.getPic_big());
-			t.setDlc(trofeu.getDlc());
-			
+			//t.setDlc(trofeu.getDlc());
+			*/
 			conquista.setUsuario(usuario);
 			conquista.setTrofeu(t);
 			conquista.setDataConquista(new DataUtil().getCalendar(trofeu.getDate()));

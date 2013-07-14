@@ -2,16 +2,29 @@ package br.com.mypst.modelo;
 
 import java.util.Calendar;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.IdClass;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+
+import br.com.mypst.infra.ConquistaPK;
 
 @Entity
+@IdClass(ConquistaPK.class)
 public class Conquista {
 
+	
+	@ManyToOne
 	@Id
 	private Usuario usuario;
+	
+	@ManyToOne
 	@Id
 	private Trofeu trofeu;
+	
+	@Column(name="dataConquista")
 	private Calendar dataConquista;
 
 	public Usuario getUsuario() {

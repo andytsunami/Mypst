@@ -13,7 +13,7 @@ import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 
-@Entity(name = "usuario")
+@Entity(name="usuario")
 public class Usuario {
 
 	@Id
