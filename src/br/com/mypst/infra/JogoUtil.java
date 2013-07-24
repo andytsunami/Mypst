@@ -84,10 +84,10 @@ public class JogoUtil {
 		
 	}
 	
-	public List<Conquista> getConquistas(Usuario usuario, Jogo jogo, EntityManager em) throws IOException{
+public List<Conquista> getConquistas(Usuario usuario, Jogo jogo, EntityManager em) throws IOException{
 		
 				
-URL url = new URL("http://mypst.com.br/rank/" + usuario.getNome() + "/jogo/" + jogo.getIdSony() + "/xml/");
+	URL url = new URL("http://mypst.com.br/rank/" + usuario.getNome() + "/jogo/" + jogo.getIdSony() + "/xml/");
 		
 		String xml = "";
 
@@ -114,13 +114,15 @@ URL url = new URL("http://mypst.com.br/rank/" + usuario.getNome() + "/jogo/" + j
 				
 		Achievement achievement = (Achievement) stream.fromXML(xml);
 		List<Conquista> conquistas = new ArrayList<>();
-		System.out.println(achievement.toString());
+		//System.out.println(achievement.toString());
 		for (Trophy trofeu : achievement.getHave()) {
 			Conquista conquista = new Conquista();
 			
 			TrofeuDAO dao = new TrofeuDAO(em);
 			
 			Trofeu t = dao.busca(trofeu.getId());
+			System.out.println("TrophyID: "+trofeu.getId());
+			System.out.println("TrofeuId: " + t.getId());
 			/*t.setId(trofeu.getId());
 			t.setNome(trofeu.getName());
 			

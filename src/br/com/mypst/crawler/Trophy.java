@@ -15,7 +15,7 @@ public class Trophy {
 	private String pic;
 	private String pic_big;
 	private String dlc;
-	private Double pdm;
+	private String pdm;
 	private String date;
 	private String game_id;
 	private String game_name;
@@ -110,11 +110,11 @@ public class Trophy {
 		this.id = id;
 	}
 
-	public Double getPdm() {
+	public String getPdm() {
 		return pdm;
 	}
 
-	public void setPdm(Double pdm) {
+	public void setPdm(String pdm) {
 		this.pdm = pdm;
 	}
 

@@ -22,15 +22,15 @@ public class TestaCrawlerConquistas {
 		DAO<Conquista> conquistaDAO = new DAO<>(em, Conquista.class);
 		em.getTransaction().begin();
 		
-		Usuario usuario = usuarioDAO.busca(2L);
+		Usuario usuario = usuarioDAO.busca(1L);
 		
-		Jogo jogo = jogoDAO.buscaPorIdSony("NPWR03484_00");
+		Jogo jogo = jogoDAO.buscaPorIdSony("582953-God-of-War-Trophies");
 		System.out.println(jogo.getNome());
 		
 		for (Conquista conquista : new JogoUtil().getConquistas(usuario, jogo,em)) {
 			System.out.println(conquista.getTrofeu().getId());
 			System.out.println(conquista.getTrofeu().getNome() + " - " + conquista.getDataConquista().toString());
-			conquistaDAO.adiciona(conquista);
+			conquistaDAO.altera(conquista);
 			
 		}
 		em.getTransaction().commit();
